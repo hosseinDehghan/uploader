@@ -1,0 +1,11 @@
+{
+    "name": "hosein/uploader",
+    "description": "this is uploader package",
+    "authors": [
+        {
+            "name": "HosseinDehghan",
+            "email": "h.dehghan72@yahoo.com"
+        }
+    ],
+    "require": {}
+}
